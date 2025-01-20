@@ -1,2 +1,2 @@
-Jupyter
+Jupyter:
 Python Machine Learning Project
